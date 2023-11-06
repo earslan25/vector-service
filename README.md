@@ -57,3 +57,4 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+Credits: Proto structure and proto generation script by @nthnluu as part of Brown University research.
